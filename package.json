@@ -1,0 +1,11 @@
+{
+  "name": "souravkumarsahu.github.io",
+  "version": "1.0.0",
+  "description": "personal profile webpage",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "sourav kumar sahu",
+  "license": "ISC"
+}
