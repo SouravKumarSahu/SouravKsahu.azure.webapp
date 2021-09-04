@@ -7,8 +7,8 @@ body {
 }
 
 .container {
-  color: #eee;
-  background: #121212;
+  color: rgb(255, 255, 255);
+  background: #495966;
 }
 
 a {
