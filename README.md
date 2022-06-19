@@ -2,8 +2,13 @@
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/SouravKsahu.azure.webapp)
 
-    - This project force pushes latest commit to repo.
+    - This is a static profile page hosted on free host using express.js
+        - google-firebase (fastest)
+        - azure-docker-webapp (slow)
+        - azure-webapp (slowest)
     
-    - Implements this static page on Google-firebase, Azure-webapp & Azure-webapp-docker.
+    - Contents are stored in firebase storage as dot http files
+
+    - auto deploy power-shell distributes built to all three host
     
-    - Contents are stored in firebase storage.
+    - ensure local installation of npm, docker & gsutil

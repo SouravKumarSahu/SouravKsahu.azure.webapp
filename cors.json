@@ -1,6 +1,10 @@
 [
   {
-    "origin": ["http://localhost:8080", "https://souravksahu-firebase.web.app"],
+    "origin": ["http://localhost:8080", 
+      "https://souravksahu-firebase.web.app",
+      "https://souravksahu.azurewebsites.net",
+      "https://souravksahu-docker.azurewebsites.net"
+    ],
     "method": ["GET"],
     "maxAgeSeconds": 3600
   }
